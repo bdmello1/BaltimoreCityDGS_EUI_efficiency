@@ -24,5 +24,5 @@ At the same time, we also wanted to take a look at Site EUI percent change. Asid
 
 
 
-Our Executive Report Details the rest of our analysis and recommendations.
+Our Executive Report details the rest of our analysis and recommendations.
 
