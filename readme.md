@@ -22,5 +22,7 @@ At the same time, we also wanted to take a look at Site EUI percent change. Asid
 
 ![](https://github.com/bdmello1/BaltimoreCityDGS_EUI_efficiency/blob/master/Images/Screen%20Shot%202020-05-15%20at%2010.26.49%20PM.png)
 
+
+
 Our Executive Report Details the rest of our analysis and recommendations.
 
