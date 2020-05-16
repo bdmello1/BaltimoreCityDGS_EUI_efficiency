@@ -37,7 +37,7 @@ Audit all garages, warehouses and self storage locations to identify if exterior
 #### Recommended company to seal areas:
 RiteHite - door called (FasTrax High Speed Door)
 
-
-
 ### Long-term Recommendations
+#### Heat Mirror®
 
+#### Wireless Lighting Control
