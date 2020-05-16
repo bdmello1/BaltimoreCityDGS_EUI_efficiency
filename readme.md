@@ -1,13 +1,13 @@
 # 2020 Baltimore City Building EUI Analysis with ST & LT ROI
 
 ## Summary 
-Baltimore City is one of the more efficient cities in the nation, however bleeds money in inefficient energy use in many building spaces. Areas of focus are amongst the police department, warehouse and storage spaces as well as museums. Solutions with quick 2-3 yr ROI are to invest in high speed doors in warehouses and energy saving lighting controls and long term solutions are to retrofit Heat Mirror windows in high EUI spaces which are buildings 50+ years in age.  
+Baltimore City is one of the more efficient cities in the nation, however the city bleeds money in inefficient energy use in many building spaces. Areas of focus are amongst the police department, warehouse and storage spaces as well as museums. Solutions with quick 2-3 yr ROI are to invest in high speed doors in warehouses and energy saving lighting controls and long term solutions are to retrofit Heat Mirror windows in high EUI spaces which are buildings 50+ years in age.  
 
 ## Problem Statement
 How energy efficient are Baltimore city buildings split by size, sector, and age and of the buildings under Baltimore City control, what measures can be taken to create energy-efficient solutions? 
 
 ## Background and Motivation
-Baltimore City DGS is interested for three reasons. One, efficiency, fiscally, and sustainability. In FY19 Baltimore City spent 19M on utilities and found that buildings made up the largest amount of energy consumption. The goal is to reduce the spend on energy as well as decrease the carbon footprint. 
+Baltimore City DGS is interested for three reasons. One, efficiency, fiscally, and sustainability. In FY19 Baltimore City spent 19M on utilities and found that buildings made up the largest amount of energy consumption. The goal is to reduce the spend on energy and to decrease the city's carbon footprint. 
 
 ## Geospatial Analysis
 The first analysis we conducted here was a simple heat map visualization of the 2019 Source EUI for Baltimore buildings, overlaid with council district boundaries. The resulting visualization is displayed below. The main takeaway here is that council districts 11 and 12 have the highest reported Source EUI in 2019. This is self-explanatory as the Downtown/Inner Harbor region contains the highest density of DGS owned and operated buildings as well as the greatest population density with regards to workforce. As such, this was a good logic check to better inform our analysis down the line.
