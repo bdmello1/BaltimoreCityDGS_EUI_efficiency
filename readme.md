@@ -7,14 +7,7 @@ Baltimore City is one of the more efficient cities in the nation, however bleeds
 How energy efficient are Baltimore city buildings split by size, sector, and age and of the buildings under Baltimore City control, what measures can be taken to create energy-efficient solutions? 
 
 ## Background and Motivation
-Baltimore City DGS is interested for three reasons
-1. Efficiency
-a. FY19 Spend on utilities =  19M 
-b. Energy consumption from buildings makes up the largest amount of spend coming from utilities 
-c. Address which set of buildings/areas are spending the most per sqft and have highest EUI also address lowest EUI + outliers
-
-2. Fiscally
-3. Sustainability
+Baltimore City DGS is interested for three reasons. One, efficiency, fiscally, and sustainability. In FY19 Baltimore City spent 19M on utilities and found that buildings made up the largest amount of energy consumption. The goal is to reduce the spend on energy as well as decrease the carbon footprint. 
 
 ## Geospatial Analysis
 
