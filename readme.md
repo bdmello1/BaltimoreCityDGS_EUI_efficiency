@@ -26,7 +26,7 @@ c. Address which set of buildings/areas are spending the most per sqft and have 
 
 
 ## Recommendations 
-
+Baltimore City needs to take steps to reduce energy efficiency and follow model cities which aim to have a goal of cutting carbon emissions by at least 40% by 2030 and 80% by 2020. To achieve these goals it is important to first target buildings/ sites that have a high EUI due to inefficient use. The following will lay the next step both in the short and long term to cut unnecessary energy use and save money.
 ### Short-term Recommendations 
 
 
