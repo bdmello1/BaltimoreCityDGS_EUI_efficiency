@@ -1,5 +1,7 @@
 # 2020 Baltimore City Building EUI Analysis with ST & LT ROI
 
+## Summary 
+Baltimore City is one of the more efficient cities in the nation, however bleeds money in inefficient energy use in many building spaces. Areas of focus are amongst the police department, warehouse and storage spaces as well as museums. Solutions with quick 2-3 yr ROI are to invest in high speed doors in warehouses and energy saving lighting controls and long term solutions are to retrofit Heat Mirror windows in high EUI spaces which are buildings 50+ years in age.  
 
 ## Problem Statement
 How energy efficient are Baltimore city buildings split by size, sector, and age and of the buildings under Baltimore City control, what measures can be taken to create energy-efficient solutions? 
