@@ -43,6 +43,7 @@ DGS Public Building Maintenance Garage
 With the lights on 24x7 and significant daylight available on the upper levels, a lighting control system can help cut energy use up to 40%. This can happen by controlling lights in the daylit perimeter areas of the upper levels in response to changing daylight levels. A simple device can be installed and Baltimore City can see an ROI within 2 years.
 
 Contract Company: Audora Technologies
+
 Initial area to target based on analysis: Parking Authority Offices
 
 ### Long Term 
