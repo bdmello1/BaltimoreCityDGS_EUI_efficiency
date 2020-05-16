@@ -22,9 +22,6 @@ At the same time, we also wanted to take a look at Site EUI percent change. Asid
 
 ![](https://github.com/bdmello1/BaltimoreCityDGS_EUI_efficiency/blob/master/Images/Screen%20Shot%202020-05-15%20at%2010.26.49%20PM.png)
 
-## Impact of Findings
-
-
 ## Recommendations 
 Baltimore City needs to take steps to reduce energy efficiency and follow model cities which aim to have a goal of cutting carbon emissions by at least 40% by 2030 and 80% by 2020. To achieve these goals it is important to first target buildings/ sites that have a high EUI due to inefficient use. The following will lay the next steps both in the short and long term to cut unnecessary energy use and save money.
 
