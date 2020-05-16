@@ -27,17 +27,26 @@ c. Address which set of buildings/areas are spending the most per sqft and have 
 
 ## Recommendations 
 Baltimore City needs to take steps to reduce energy efficiency and follow model cities which aim to have a goal of cutting carbon emissions by at least 40% by 2030 and 80% by 2020. To achieve these goals it is important to first target buildings/ sites that have a high EUI due to inefficient use. The following will lay the next steps both in the short and long term to cut unnecessary energy use and save money.
-### Short-term Recommendations 
-Short Term - doors on loading dock entrances
+
+### Short Term - doors on loading dock entrances
+#### Option 1 - High speed doors at loading docks
 Audit all garages, warehouses and self storage locations to identify if exterior envelope is leaking cooled interior air. Multiple locations have loading docks which are open to the elements and simply need a shutter/ door that can go up/ down when necessary. If this solution is implemented can see energy savings between $700-4k with an ROI in 2 years. The spaces will notice an energy use decrease between 20-30%.  
 
-#### Initial area to target based on analysis: 
-1. Northeast DGS Fleet Substation Garage
-2. DGS Public Building Maintenance Garage
-#### Recommended company to seal areas:
-RiteHite - door called (FasTrax High Speed Door)
+Recommended company to seal areas: RiteHite - door called (FasTrax High Speed Door)
+Initial area to target based on analysis: 
+Northeast DGS Fleet Substation Garage
+DGS Public Building Maintenance Garage
 
-### Long-term Recommendations
-#### Heat Mirror®
+#### Option 2 - Wireless Lighting Control
+With the lights on 24x7 and significant daylight available on the upper levels, a lighting control system can help cut energy use up to 40%. This can happen by controlling lights in the daylit perimeter areas of the upper levels in response to changing daylight levels. A simple device can be installed and Baltimore City can see an ROI within 2 years.
 
-#### Wireless Lighting Control
+Contract Company: Audora Technologies
+Initial area to target based on analysis: 
+Parking Authority Offices
+
+### Long Term 
+The best way to reduce energy use in buildings is to seal the envalope of the building. Meaning that air from the outside should not enter the building, nor should the air from inside escape. This long term strategy will yeild major saving however has an ROI of 10 years on buildings aged 50+ years. The most cost effective solution is to retrofit all windows of these buildings with a new technology called Heat Mirror®. The initial building to target is the MECU building. 
+
+## Conclusion 
+Overall, there are three strategies to reduce energy use amongst high EUI Baltimore city buildings. The first short term solutions are to seal loading dock entrances and have efficient lighting systems in garages. The long term solution is to retrofit all windows of 50+ year old buildings which may be leaking cooled air. Furthermore, it is important to identify which HVAC systems lead to highest ROI and understand why the DOT main building has the highest EUI with such a small sqft. 
+
