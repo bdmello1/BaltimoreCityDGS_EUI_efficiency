@@ -31,7 +31,7 @@ Baltimore City needs to take steps to reduce energy efficiency and follow model 
 Short Term - doors on loading dock entrances
 Audit all garages, warehouses and self storage locations to identify if exterior envelope is leaking cooled interior air. Multiple locations have loading docks which are open to the elements and simply need a shutter/ door that can go up/ down when necessary. If this solution is implemented can see energy savings between $700-4k with an ROI in 2 years. The spaces will notice an energy use decrease between 20-30%.  
 
-####Initial area to target based on analysis: 
+#### Initial area to target based on analysis: 
 Northeast DGS Fleet Substation Garage
 DGS Public Building Maintenance Garage
 Recommended company to seal areas: RiteHite - door called (FasTrax High Speed Door)
