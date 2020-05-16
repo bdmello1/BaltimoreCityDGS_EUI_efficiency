@@ -46,8 +46,8 @@ The best way to reduce energy use in buildings is to seal the envalope of the bu
 Overall, there are three strategies to reduce energy use amongst high EUI Baltimore city buildings. The first short term solutions are to seal loading dock entrances and have efficient lighting systems in garages. The long term solution is to retrofit all windows of 50+ year old buildings which may be leaking cooled air. Furthermore, it is important to identify which HVAC systems lead to highest ROI and understand why the DOT main building has the highest EUI with such a small sqft. 
 
 ## Contact Us
-Paarth Sharma:
-Byron D’Mello: bdmello@gmail.com/(305)972-7887
-Andrew Lee: alee211@jhu.edu/drewshlee@gmail.com/845-570-1768
+1. Byron D’Mello: bdmello@gmail.com/(305)972-7887
+2. Paarth Sharma: 
+3. Andrew Lee: alee211@jhu.edu/drewshlee@gmail.com/845-570-1768
 
 
