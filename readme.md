@@ -18,7 +18,7 @@ During the data cleaning and analysis process, one key metric we wanted to calcu
 
 ![](https://github.com/bdmello1/BaltimoreCityDGS_EUI_efficiency/blob/master/Images/Screen%20Shot%202020-05-15%20at%2010.26.38%20PM.png)
 
-At the same time, we also wanted to take a look at Site EUI percent change. Aside form the previously mentioned police department, only 2 other buildings demonstrate a positive change in Source EUI from 2017 to 2019. First is the Carroll Mansion Museum. This was built in 1812, so the increase in EUI could simply result from needing to update the HVAC unit on site. The other building is the Eastside Career Center. The percent change here is not large, but still it is something to consider as the building was only built in 1955. It is also important to note that almost all buildings built after 1970 have a negative change in Source and Site EUI, so they are definitely doing something right. 
+At the same time, we also wanted to take a look at Site EUI percent change. Aside from the previously mentioned police department, only 2 other buildings demonstrate a positive change in Source EUI from 2017 to 2019. First is the Carroll Mansion Museum. This was built in 1812, so the increase in EUI could simply result from needing to update the HVAC unit on site. The other building is the Eastside Career Center. The percent change here is not large, but still it is something to consider as the building was only built in 1955. It is also important to note that almost all buildings built after 1970 have a negative change in Source and Site EUI, so they are definitely doing something right. 
 
 ![](https://github.com/bdmello1/BaltimoreCityDGS_EUI_efficiency/blob/master/Images/Screen%20Shot%202020-05-15%20at%2010.26.49%20PM.png)
 
